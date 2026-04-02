@@ -1,27 +1,6 @@
-UX
-User Research
-Information Architecture (IA)\
-Wireframing
-Usability Testing
-
-UI
-Visual Hierarchy
-Typography
-Color Theory
-Consistency
-
-Hukum-Hukum Psikologi Desain
-Hick’s Law
-Fitts’s Law
-Jakob’s Law
-
-Design Thinking
-Empathize: Menawarkan diri sebagai fitness influencer kelas global
-
-Define: Ingin merambat pada orang orang yang masih sangat awam atau tidak tahu dunia kesehatan.
-
-
 PORTFOLIO WEBSITE FITNESS INFLUENCER
+HEADER NAVBAR
+
 SECTION 1: THE ICON (The Hook/Hero)
 	Visual
 	Headline: CHRIS BUMSTEAD: The Standard of Modern Excellence.
@@ -72,3 +51,4 @@ SECTION 6: VALUES & INTEGRITY (The Filter)
 	Core Values
 	Closing Statement
 
+FOOTER
