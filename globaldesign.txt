@@ -1,0 +1,519 @@
+Arah Besar Desain
+Positioning
+
+Website ini harus terasa seperti:
+
+“Seorang fitness influencer kelas global yang tetap bisa membimbing orang awam dengan sederhana.”
+
+Artinya ada 2 karakter yang harus hidup bersamaan:
+
+Authority → terlihat expert, elite, premium
+Approachable → tidak intimidating, tidak terlalu hardcore, tetap ramah untuk pemula
+
+Kalau terlalu “gym bro keras”, pemula akan mundur.
+Kalau terlalu lembut dan generik, aura global-class nya hilang.
+
+Maka tone desain kita adalah:
+
+Premium + Powerful + Clean + Beginner-Friendly
+
+1. UX FOUNDATION
+A. User Research
+
+Karena audiensnya orang yang masih awam, maka kita tidak mendesain untuk bodybuilder.
+Kita mendesain untuk orang seperti ini:
+
+Persona utama
+
+1. Beginner Insecure
+
+Baru mulai peduli kesehatan
+Minder dengan tubuh sendiri
+Bingung harus mulai dari mana
+Takut program fitness terlalu susah
+
+2. Busy Professional
+
+Mau sehat tapi waktu terbatas
+Butuh panduan simpel, bukan teori rumit
+Lebih suka sistem yang jelas
+
+3. Fitness Admirer
+
+Mengagumi tokoh seperti CBUM
+Ingin “terinspirasi”, lalu mencoba versi yang realistis untuk dirinya
+Suka visual yang kuat, rapi, maskulin
+Pain points utama
+“Saya nggak tahu harus mulai dari mana.”
+“Saya takut nggak konsisten.”
+“Program fitness biasanya terlalu ribet.”
+“Saya belum percaya ini cocok buat pemula.”
+“Saya pengen hasil, tapi jangan bikin saya merasa bodoh.”
+Kebutuhan user
+Penjelasan sederhana
+Jalur mulai yang jelas
+Bukti hasil / social proof
+Sosok mentor yang terlihat ahli
+CTA yang jelas, bukan terlalu banyak pilihan
+Implikasi ke desain
+
+Berarti website harus:
+
+cepat menjelaskan siapa dia
+menjelaskan siapa yang dibantu
+memberi tahu langkah pertama
+menurunkan rasa takut user
+menunjukkan hasil nyata
+menutup dengan CTA sederhana
+B. Information Architecture (IA)
+
+Untuk user pemula, struktur harus sangat mudah dibaca.
+Jangan terlalu banyak menu. Jangan bikin mereka mikir.
+
+Sitemap yang direkomendasikan
+
+Single-page portfolio landing page dengan alur:
+
+Hero
+About / Authority
+Who This Is For
+Programs / Services
+Transformation / Testimonials
+Content / Education
+Philosophy
+FAQ
+Final CTA
+Footer
+Mengapa urutan ini efektif
+Hero → menarik perhatian dan menjelaskan nilai utama
+Authority → “orang ini kredibel”
+Who This Is For → “oh, ini buat saya juga”
+Programs → tawaran konkret
+Proof → mengurangi keraguan
+Content → menunjukkan expertise
+Philosophy → memberi emotional depth
+FAQ → menghapus hambatan terakhir
+CTA → konversi
+Navigasi utama
+
+Gunakan menu maksimal:
+
+Home
+About
+Programs
+Results
+FAQ
+Contact / Join
+
+Ini sudah cukup.
+Semakin banyak pilihan, semakin besar user bingung.
+
+C. Wireframing
+
+Wireframe harus dibuat dari sudut pandang alur mental user pemula.
+
+Struktur hero yang ideal
+
+Kiri:
+
+Headline kuat
+Subheadline simpel
+1 primary CTA
+1 secondary CTA
+
+Kanan / background:
+
+visual influencer besar, tegas, premium
+Contoh isi
+
+Headline:
+Build Strength, Confidence, and a Healthier Body
+
+Subheadline:
+A simple fitness system inspired by elite discipline, designed for real beginners.
+
+CTA utama:
+Start Your Journey
+
+CTA kedua:
+See Programs
+
+Kenapa seperti ini?
+Karena pemula tidak siap dengan pesan ekstrem seperti:
+“Become a champion physique athlete.”
+Mereka lebih masuk ke:
+
+sehat
+percaya diri
+mulai dengan sederhana
+D. Usability Testing
+
+Sebelum final, desain ini harus diuji dengan 5 jenis pertanyaan:
+
+Task-based test
+
+Suruh user coba:
+
+Cari siapa influencer ini
+Cari apakah program ini cocok untuk pemula
+Cari layanan yang tersedia
+Cari bukti hasil
+Cari cara join
+Yang harus diuji
+Apakah headline langsung dipahami dalam 5 detik?
+Apakah user tahu tombol mana yang harus diklik?
+Apakah user bisa membedakan program pemula vs lanjutan?
+Apakah FAQ menjawab rasa takut terbesar?
+Apakah CTA terasa natural atau terlalu memaksa?
+Indikator desain berhasil
+User bisa menjelaskan isi website dengan singkat
+User tahu langkah selanjutnya
+User merasa “website ini untuk saya”
+User tidak kebingungan dengan menu atau section
+2. UI FOUNDATION
+A. Visual Hierarchy
+
+Ini sangat penting untuk website fitness influencer karena visual cenderung dominan.
+Kalau hierarchy buruk, website jadi cuma “gambar keren” tanpa arah.
+
+Hirarki yang harus diterapkan
+
+Level 1 — Hero Headline
+
+elemen paling besar
+paling kontras
+langsung menjelaskan value
+
+Level 2 — CTA utama
+
+sangat terlihat
+dekat dengan headline
+tidak tenggelam oleh background image
+
+Level 3 — Social proof / authority
+
+badge, achievements, numbers
+
+Level 4 — Supporting text
+
+penjelasan pendek
+tidak terlalu panjang
+Aturan praktis
+
+Setiap section harus punya:
+
+1 fokus utama
+1 supporting message
+1 action
+
+Jangan ada 3 hal penting dalam satu area yang saling berebut perhatian.
+
+B. Typography
+
+Karena brand-nya maskulin, premium, dan modern, typography harus tegas tapi tetap nyaman dibaca.
+
+Rekomendasi kombinasi
+
+Heading: Bebas Neue / Oswald / Anton
+Body text: Inter / Manrope / Poppins
+
+Aturan tipografi
+Heading: bold, uppercase secukupnya
+Body: clean, ringan, jangan terlalu rapat
+Line-height body: lega
+Jangan terlalu banyak variasi font
+Maksimal 2 font family
+Hierarchy typography
+H1: besar, kuat, statement
+H2: pemisah section
+H3: sub-section/card title
+Body: ringkas, mudah dipahami pemula
+Caption: statistik, badge, label kecil
+Karakter copy untuk pemula
+
+Jangan terlalu teknikal seperti:
+
+hypertrophy phase
+caloric deficit adaptation
+progressive overload split periodization
+
+Lebih baik pakai bahasa:
+
+mulai dari dasar
+bangun kebiasaan sehat
+tubuh lebih kuat
+langkah simpel
+program yang mudah diikuti
+
+Jadi desain tipografi bukan cuma visual, tapi juga soal keterbacaan mental.
+
+C. Color Theory
+
+Karena referensi CBUM identik dengan strength, discipline, prestige, warna utama harus gelap dan dewasa.
+
+Sistem warna yang direkomendasikan
+
+Primary background: hitam pekat / charcoal
+Secondary background: dark gray
+Primary text: off-white
+Secondary text: light gray
+Accent color: emas lembut / putih terang / merah gelap secukupnya
+
+Makna warna
+Hitam / charcoal → premium, fokus, maskulin
+Putih / off-white → clarity, clean
+Emas halus → prestige, elite
+Abu → balance, calm
+Merah secukupnya → energy, urgency
+Saran palet
+Background: #0B0B0B
+Surface: #151515
+Card border: #2A2A2A
+Text primary: #F5F5F5
+Text secondary: #B8B8B8
+Accent gold: #C9A24A
+Aturan penting
+
+Jangan terlalu banyak warna aksen.
+Untuk brand seperti ini, justru kekuatan ada pada restrain.
+
+1 warna utama + 1 warna aksen sudah cukup.
+
+D. Consistency
+
+Konsistensi adalah pembeda antara desain amatir dan desain profesional.
+
+Yang harus konsisten:
+
+1. Spacing system
+
+Gunakan sistem jarak tetap, misalnya:
+
+8
+16
+24
+32
+48
+64
+96
+
+Jangan asal taruh margin.
+
+2. Border radius
+
+Kalau mau premium-maskulin:
+
+card: 16px–24px
+button: 999px atau 12px tergantung style
+image frame: konsisten
+3. Button style
+
+Hanya 2 jenis:
+
+Primary button
+Secondary button
+
+Jangan tiap section tombolnya beda gaya.
+
+4. Icon style
+
+Kalau pakai icon, semua harus satu style:
+
+outline semua
+atau
+solid semua
+5. Card pattern
+
+Semua card program, testimonial, dan stats harus punya bahasa visual yang sama:
+
+padding
+shadow
+border
+title placement
+CTA placement
+3. HUKUM PSIKOLOGI DESAIN
+A. Hick’s Law
+
+Semakin banyak pilihan, semakin lama user mengambil keputusan.
+
+Penerapan di website ini
+
+Untuk pemula, jangan kasih terlalu banyak opsi di awal.
+
+Yang benar
+
+Di hero cukup ada:
+
+1 CTA utama: Start Your Journey
+1 CTA sekunder: View Programs
+Yang salah
+Join challenge
+Download ebook
+Watch video
+See plans
+Read blog
+Contact now
+View gallery
+
+Terlalu banyak pilihan bikin user diam.
+
+Implikasi besar
+
+Program yang ditampilkan jangan terlalu banyak.
+Idealnya:
+
+Beginner
+Fat Loss
+Strength Foundation
+
+Maksimal 3 program utama di landing page.
+
+B. Fitts’s Law
+
+Semakin mudah target dijangkau dan diklik, semakin besar kemungkinan user berinteraksi.
+
+Penerapan
+Tombol CTA harus besar dan jelas
+Jarak antar tombol jangan terlalu rapat
+Tombol penting ditempatkan di area yang mudah dijangkau mata
+Pada mobile, CTA harus nyaman disentuh jempol
+Contoh
+Sticky CTA mobile di bagian bawah bisa sangat efektif
+Button “Join Now” jangan kecil atau tipis
+FAQ accordion harus mudah disentuh
+C. Jakob’s Law
+
+User lebih suka sesuatu yang terasa familiar.
+
+Penerapan
+
+Walaupun tampilannya premium, pola interaksi harus tetap familiar:
+
+logo di kiri atas
+nav di kanan atas
+hero di atas
+CTA jelas
+card program model yang umum
+FAQ accordion standar
+footer dengan info kontak dan sosial media
+
+Jangan terlalu eksperimental.
+Untuk portfolio influencer, yang menang bukan layout aneh, tapi clarity + confidence.
+
+4. DESIGN THINKING FRAMEWORK
+A. Empathize
+
+Menawarkan diri sebagai fitness influencer kelas global
+
+Berarti website harus menyampaikan:
+
+saya berpengalaman
+saya disiplin
+saya punya standar tinggi
+saya bisa jadi role model
+
+Tetapi tetap:
+
+tidak mengintimidasi
+tidak membuat pemula merasa “saya tidak layak ikut”
+
+Jadi empati kita adalah:
+“Saya paham kamu baru mulai, dan saya akan bantu kamu masuk ke dunia fitness dengan cara yang jelas.”
+
+B. Define
+
+Ingin merambat pada orang-orang yang masih sangat awam atau tidak tahu dunia kesehatan.
+
+Problem statement yang tepat:
+
+“Bagaimana mendesain website fitness influencer premium yang tetap terasa ramah, sederhana, dan meyakinkan bagi pemula agar mereka mau mengambil langkah pertama?”
+
+Ini sangat penting, karena semua keputusan desain nantinya harus menjawab problem ini.
+
+Kalau ada elemen yang keren tapi bikin user makin bingung, berarti elemen itu gagal.
+
+5. DESIGN PRINCIPLES KHUSUS UNTUK WEB CBUM-STYLE INI
+Prinsip 1: Inspire first, intimidate never
+
+Visual boleh powerful, tapi copy dan UX harus membantu pemula merasa aman.
+
+Prinsip 2: One clear action per section
+
+Setiap section harus punya tujuan tunggal.
+
+Prinsip 3: Education before conversion
+
+Untuk audiens awam, trust dibangun dengan edukasi singkat dan sederhana.
+
+Prinsip 4: Show proof, not just aesthetics
+
+Jangan hanya andalkan foto badan bagus. Tampilkan hasil, proses, testimoni, angka.
+
+Prinsip 5: Premium simplicity
+
+Premium bukan berarti ramai. Premium justru terasa dari kontrol, ruang kosong, dan konsistensi.
+
+6. ARAH VISUAL RESMI WEBSITE
+Moodboard verbal
+
+Bayangkan gabungan dari:
+
+luxury fitness campaign
+modern athlete branding
+minimal editorial website
+disciplined masculine aesthetic
+Keywords visual
+strong
+premium
+calm
+dark
+elite
+clean
+intentional
+Hindari
+terlalu neon
+terlalu ramai
+terlalu banyak animasi
+font terlalu dekoratif
+copy terlalu teknis
+
+7.DESIGN SYSTEM SINGKAT
+Buttons
+
+Primary: solid accent / high contrast
+Secondary: outline / subtle
+
+Cards
+dark surface
+thin border
+rounded medium
+spacing lega
+hover halus
+Images
+high contrast
+dramatic lighting
+crop rapi
+gunakan grayscale/low saturation bila perlu agar tetap premium
+Icons
+sederhana
+minimal
+jangan terlalu playful
+8. KESIMPULAN STRATEGIS
+
+Untuk web portfolio fitness influencer ala CBUM ini, desain yang benar bukan yang sekadar:
+“kelihatan badan bagus dan maskulin.”
+
+Tapi desain yang berhasil adalah desain yang membuat user berpikir:
+
+“Dia terlihat expert.”
+“Dia paham apa yang dia lakukan.”
+“Tapi ini juga bisa untuk orang seperti saya.”
+“Saya tahu harus klik apa sekarang.”
+
+Itulah titik temu antara:
+
+UX yang jelas
+UI yang kuat
+psikologi desain
+positioning global-class
+layout “gym bros banget”

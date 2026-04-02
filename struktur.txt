@@ -1,0 +1,74 @@
+UX
+User Research
+Information Architecture (IA)\
+Wireframing
+Usability Testing
+
+UI
+Visual Hierarchy
+Typography
+Color Theory
+Consistency
+
+Hukum-Hukum Psikologi Desain
+Hick’s Law
+Fitts’s Law
+Jakob’s Law
+
+Design Thinking
+Empathize: Menawarkan diri sebagai fitness influencer kelas global
+
+Define: Ingin merambat pada orang orang yang masih sangat awam atau tidak tahu dunia kesehatan.
+
+
+PORTFOLIO WEBSITE FITNESS INFLUENCER
+SECTION 1: THE ICON (The Hook/Hero)
+	Visual
+	Headline: CHRIS BUMSTEAD: The Standard of Modern Excellence.
+	Sub-headline: 5x (and counting) Classic Physique Olympia Champion.
+	USP
+
+SECTION 2: GLOBAL REACH & AUDIENCE (The Data)
+	Total Ecosystem: 45M+ Combined Followers.
+
+    	Instagram: 24M+ (ER: 4.5% — sangat tinggi untuk akun sebesar ini).
+
+    	YouTube: 4M+ Subscribers (Rata-rata 1.5M views per video).
+
+   	Demografi Utama:
+
+        Usia: 18–34 tahun (70%).
+
+        Gender: 85% Pria, 15% Wanita.
+
+        Lokasi yang terjangkau
+
+	Insight: "Pengikut saya bukan sekadar penonton pasif; mereka adalah komunitas yang aktif membeli apa pun yang saya gunakan, dari suplemen hingga ikat pinggang."
+
+SECTION 3: THE LEGACY & TRANSFORMATION (Social Proof)
+	The Journey
+
+	The "Cbum Effect"
+
+	Testimonial
+
+SECTION 4: CONTENT EXCELLENCE (The Gallery)
+	Cinematic Workout
+
+	Lifestyle & Fashion
+
+	Educational
+
+SECTION 5: STRATEGIC PARTNERSHIP (The Services)
+	Integrated Campaign
+
+	Co-Branded Products
+
+	Global Brand Ambassadorship
+
+	Keynote Speaking
+
+SECTION 6: VALUES & INTEGRITY (The Filter)
+	Core Values
+	Closing Statement
+
